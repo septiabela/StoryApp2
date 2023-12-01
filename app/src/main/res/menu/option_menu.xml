@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:menuCategory="container">
+        <item android:id="@+id/settings"
+            android:title="@string/settings" />
+
+        <item android:id="@+id/logout"
+            android:title="@string/logout" />
+    </group>
+
+    <item
+        android:id="@+id/map"
+        android:title="@string/maps"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_map" />
+</menu>

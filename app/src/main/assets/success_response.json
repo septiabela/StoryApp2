@@ -1,0 +1,96 @@
+{
+  "error": false,
+  "message": "Stories fetched successfully",
+  "listStory": [
+    {
+      "id": "story-WI9JPa6tguSXn9TW",
+      "name": "reviewer66",
+      "description": "test",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650812129722_dlI9P2MR.jpg",
+      "createdAt": "2022-04-24T14:55:29.724Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-jc48OQSdCN-P0shh",
+      "name": "paok",
+      "description": "sdegeswg",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650812126732_yENudGok.jpg",
+      "createdAt": "2022-04-24T14:55:26.734Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-LQ_1FxL2gnijahiV",
+      "name": "Aufa",
+      "description": " ",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650811980696_RVSVtFhG.jpg",
+      "createdAt": "2022-04-24T14:53:00.697Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-WCLwt7bk92T8068J",
+      "name": "rami malek",
+      "description": "\"\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650811904023_GiFtZJ4f.jpg",
+      "createdAt": "2022-04-24T14:51:44.024Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-K4a7boQuTo-KNJTL",
+      "name": "Halo",
+      "description": "tes",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650811860098_MKgmSBht.jpg",
+      "createdAt": "2022-04-24T14:51:00.099Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-BYEuDFo98e17Ham5",
+      "name": "terachad",
+      "description": "nasgor ehehehehehehe",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650815637628__niDQC31.jpg",
+      "createdAt": "2022-04-24T15:53:57.631Z",
+      "lat": -7.961236,
+      "lon": 112.62768
+    },
+    {
+      "id": "story-5542JEJVVznfO6Zu",
+      "name": "lev",
+      "description": "Pain",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650815597480_vl60Bq3s.jpg",
+      "createdAt": "2022-04-24T15:53:17.483Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-YGfxKc-yl7eJc4_r",
+      "name": "abi",
+      "description": "final tes",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650815379073_0JajBLeT.jpg",
+      "createdAt": "2022-04-24T15:49:39.076Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-sw279Q3sGPbwLPYG",
+      "name": "riziq",
+      "description": "\"\"",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650815304638_1CW7D0Ft.jpg",
+      "createdAt": "2022-04-24T15:48:24.640Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story--vAE_GQ3cCVr59EO",
+      "name": "toni",
+      "description": "house",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1650815025464_lDCU3Ill.jpg",
+      "createdAt": "2022-04-24T15:43:45.465Z",
+      "lat": null,
+      "lon": null
+    }
+  ]
+}
